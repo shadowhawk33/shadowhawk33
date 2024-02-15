@@ -1,5 +1,5 @@
 About Me
-Hello there! 👋 I'm Ansh Singh, an aspiring Salesforce Developer with a passion for Flow. I enjoy diving deep into the world of Salesforce and exploring new technologies.
+Hello there! 👋 I'm Ansh Singh, an aspiring Salesforce Developer with a passion for finding creative solutions to the problem. I enjoy diving deep into the world of Salesforce and exploring new technologies.
 
 🚀 Quick Overview
 💼 Profession: Salesforce Developer Intern
